@@ -1,0 +1,8 @@
+{
+  "name": "app-product-wallet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "e243058a"
+}
